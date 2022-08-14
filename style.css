@@ -1,0 +1,143 @@
+body{
+    background-image: url(./images/wood\ plank\ image.webp);
+    }
+    header {
+        background-color: black;
+    }
+    .navbar { 
+        text-align: center;
+        height:50px;
+        padding-top: 0;
+        justify-content: space-between;
+      
+    }
+    
+    a{
+        color: white;
+        font-size: x-large;
+        padding-top: 20px;
+    }
+    
+    .main-logo-backing {
+        background-color: black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:950px;
+        height: 550px;
+    }
+    
+    .firelogo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .leftbox {
+        background-color: yellow;
+        width:310px;
+        height:135px;
+        position: relative;
+        bottom:792px;
+        left:2px;
+    }
+    
+    .leftboxtext {
+        font-size: 200%;
+    }
+    
+    .rightbox {
+        background-color: yellow;
+        width:250px;
+        height:135px;
+        position: relative;
+        left:700px;
+        bottom:625px;
+    }
+    
+    .rightboxtext {
+        font-size: 200%;
+        text-align: center;
+        text-decoration: underline;
+        padding:0;
+    }
+    
+    .button {
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      left:400px;
+      bottom:80px;
+      height:50px;
+      width:150px;
+      border-radius: 10px;
+      background-color: yellow;
+    }
+    
+    .orderonline {
+        font-size: large;
+        color:rgb(66, 65, 65);
+    }
+    
+    h4 {
+        border-bottom: 2px dashed black;
+    }
+    
+    
+    
+    .row1, .row2, .row3 {
+       
+        background-color: rgb(229,214,195);
+        width: 310px;
+        height: 200px; 
+    }
+    
+    
+    p{
+        font-size: large;
+    }
+    
+    li {
+        list-style: none;
+        font-weight: 600;
+    }
+    
+    .title {
+        text-decoration: underline;
+    }
+    
+    table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .bottombutton{
+      text-align: center;
+    }
+    .button1{
+        background-color:rgb(255,101,12) ;
+        text-align: left;
+        width:310px;
+        height:50px;
+        
+    }
+    
+    
+    footer {
+        background-color: black;
+        color:white;
+        display: flex;
+        justify-content: space-between;
+       
+    }
+    
+    .facebook {
+       padding-top: 15px;
+        padding-right: 220px;
+       
+       
+        height:30px;
+    }
+    
+    .footertext {
+        padding-left: 220px;
+        }
